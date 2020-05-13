@@ -1,0 +1,27 @@
+{
+  "name": "tap_music",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamesoddy8/tap_music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamesoddy8/tap_music/issues"
+  },
+  "homepage": "https://github.com/jamesoddy8/tap_music#readme",
+  "dependencies": {
+    "window": "^4.2.7"
+  }
+}
